@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,800;1,800&family=Montserrat:wght@700;800&family=Poppins:wght@500&family=Righteous&display=swap');
+
+
+/* /* html{
+    font-size: 62.5%;
+} */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Hanken Grotesk', sans-serif;
+    ;
+    list-style: none;
+
+}
+
+:root {
+    --color-verde: green;
+    --color-azul: blue;
+}
+
+
